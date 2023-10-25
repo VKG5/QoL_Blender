@@ -1,4 +1,4 @@
-# QoL_Blender
+# Quality of Life Blender
 Some Quality of Life add-ons for Blender. These are developed using Blender Python API and includes a bunch of tools - Visualization Tools, Interface Tools, Edge Wear Generator
 
 ## 1. Lumi Tools and Visualization Tools
