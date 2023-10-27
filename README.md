@@ -59,4 +59,7 @@ This tool is used to generate edge wear on any given mesh. This uses Geometry no
 
 There are a lot more tools and features coming up in the near future so stay tuned :)
 
+## Demo Video:
+[<img src="https://img.youtube.com/vi/AGJ2kZLXbUI/hqdefault.jpg" height="300"/>](https://www.youtube.com/embed/AGJ2kZLXbUI)
+
 ### NOTE : This is an open repository and you can use/modify the tools as you want. Please give due credit where necessary.
